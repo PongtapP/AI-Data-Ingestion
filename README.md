@@ -1,7 +1,7 @@
 # 🔄 Universal AI Data Ingestion Pipeline
 
 **Project Status:** Internship Capstone Project (Proof of Concept)
-**Role:** AI Engineer Intern
+**Role:** Web Developer Intern (AI & Data Integration Focus)
 **Tech Stack:** Langflow, Python, Vector Database
 
 ---
